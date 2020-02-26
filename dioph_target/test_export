@@ -1,0 +1,600 @@
+graph: 0 1 2 3 4 5 6 8 9 10 11 12 14
+poly: 14,10 0 0 2,14 0 1 4 2,7 1,11 2 2
+%poly(human): 14 + 10y^2 + 14xy^4z^2 + 7k + 11k^2x^2
+graph: 0 1 2 3 4 5 6 8 10 11 12 14
+poly: 2 2,5 2 2,3 3,10 4 3 2
+%poly(human): 2k^2 + 5k^2x^2 + 3k^3 + 10k^4x^3y^2
+graph: 0 1 2 3 4 5 8 9 10 11 12 13
+poly: 14 0 0 3,2 1 4,5 2,7 3 2
+%poly(human): 14y^3 + 2kx^4 + 5k^2 + 7k^3x^2
+graph: 0 1 2 3 4 6 8 9 10 12 14
+poly: 7 0 4,6 1 4,7 3 0 4,3 4
+%poly(human): 7x^4 + 6kx^4 + 7k^3y^4 + 3k^4
+graph: 0 1 2 3 4 6 8 10 12 14
+poly: 9 1 4,4 3 0,9 4,10 4 4 4
+%poly(human): 9kx^4 + 4k^3 + 9k^4 + 10k^4x^4y^4
+graph: 0 1 2 3 5 6 9 10 13 14
+poly: 6 0 3 3,5 1,1 4 0
+%poly(human): 6x^3y^3 + 5k + k^4
+graph: 0 1 2 3 5 7 8 9 11 13 14 15
+poly: 5,6 0 1 2,11 0 2,1 1 2 0,13 3 1
+%poly(human): 5 + 6xy^2 + 11x^2 + kx^2 + 13k^3x
+graph: 0 1 2 3 5 7 9 10 11 13 15
+poly: 2 0 4,7 1,13 3 0 1
+%poly(human): 2x^4 + 7k + 13k^3y
+graph: 0 1 2 4 5 6 7 8 9 10 11 12 13 14 15
+poly: 7,9 0,8 2,7 3 1,3 4 1 0
+%poly(human): 7 + 9 + 8k^2 + 7k^3x + 3k^4x
+graph: 0 1 2 4 6 7 8 9 10 11 12 14 15
+poly: 3 1 0 4,1 2 4,15 4
+%poly(human): 3ky^4 + k^2x^4 + 15k^4
+graph: 0 1 2 5 7 8 9 10 11 13
+poly: 10 0 0 2 0,15 1,6 1 1,7 2 2 0
+%poly(human): 10y^2 + 15k + 6kx + 7k^2x^2
+graph: 0 1 2 5 7 8 9 13 15
+poly: 14 0 2,14 1,11 1 0,11 4,9 4 2 3
+%poly(human): 14x^2 + 14k + 11k + 11k^4 + 9k^4x^2y^3
+graph: 0 1 3 4 5 8 9 12 13
+poly: 11 3,7 4,6 4 3 4
+%poly(human): 11k^3 + 7k^4 + 6k^4x^3y^4
+graph: 0 1 3 4 5 8 12
+poly: 9 2,11 3 0,6 3 4,11 3 4 2,6 4
+%poly(human): 9k^2 + 11k^3 + 6k^3x^4 + 11k^3x^4y^2 + 6k^4
+graph: 0 1 3 4 5 9 11 12 13
+poly: 4 0 3,3 1,5 4,14 4 3 0 3,14 4 4
+%poly(human): 4x^3 + 3k + 5k^4 + 14k^4x^3z^3 + 14k^4x^4
+graph: 0 1 3 4 7 8 11 12 13 15
+poly: 1 1 0 2,9 2,6 2 3,3 3 0
+%poly(human): ky^2 + 9k^2 + 6k^2x^3 + 3k^3
+graph: 0 1 3 5 7 8 9 11 13 15
+poly: 14 1,2 3
+%poly(human): 14k + 2k^3
+graph: 0 1 3 5 7 8 9 13
+poly: 11,5 0 2,5 1,2 3 0 2
+%poly(human): 11 + 5x^2 + 5k + 2k^3y^2
+graph: 0 1 3 7 9 11 15
+poly: 3 1,13 4,6 4 3 2 4
+%poly(human): 3k + 13k^4 + 6k^4x^3y^2z^4
+graph: 0 1 3 8 9 11
+poly: 6 1,12 1 4 4,10 4 2
+%poly(human): 6k + 12kx^4y^4 + 10k^4x^2
+graph: 0 1 3 8 9 14
+poly: 6 0 4 2,11 1 0 0,10 3,8 3 3 3,3 4 4
+%poly(human): 6x^4y^2 + 11k + 10k^3 + 8k^3x^3y^3 + 3k^4x^4
+graph: 0 1 3 11
+poly: 6 0 4,9 0 4 0,3 1,14 3 2 2
+%poly(human): 6x^4 + 9x^4 + 3k + 14k^3x^2y^2
+graph: 0 1 3 11 13
+poly: 1 1,10 3 1 2,6 3 4 0 0,3 4 2
+%poly(human): k + 10k^3xy^2 + 6k^3x^4 + 3k^4x^2
+graph: 0 1 3 11 15
+poly: 3 1 0,4 2 2 3,10 3 0 4,13 4
+%poly(human): 3k + 4k^2x^2y^3 + 10k^3y^4 + 13k^4
+graph: 0 1 4
+poly: 5 0 2 4,11 1,5 4 4 0
+%poly(human): 5x^2y^4 + 11k + 5k^4x^4
+graph: 0 1 4 5 6 8 9 11 12 13
+poly: 1,9,14 0 0 3 0,1 1,11 4
+%poly(human): 1 + 9 + 14y^3 + k + 11k^4
+graph: 0 1 4 5 12 13
+poly: 4 0 3,1 1,14 1,1 2 0
+%poly(human): 4x^3 + k + 14k + k^2
+graph: 0 1 4 6 8 9 11 12 13 14
+poly: 2 1 2 0,3 2,2 2 2 4,7 2 2 4,5 3
+%poly(human): 2kx^2 + 3k^2 + 2k^2x^2y^4 + 7k^2x^2y^4 + 5k^3
+graph: 0 1 4 7 8 12 13 15
+poly: 10 0 3 0 2,7 2,15 3 2
+%poly(human): 10x^3z^2 + 7k^2 + 15k^3x^2
+graph: 0 1 4 8 9 11 12 15
+poly: 1 2 2,15 3,2 3 3 2 4
+%poly(human): k^2x^2 + 15k^3 + 2k^3x^3y^2z^4
+graph: 0 1 4 8 11 12
+poly: 13 3,10 3 4,9 4
+%poly(human): 13k^3 + 10k^3x^4 + 9k^4
+graph: 0 1 4 9 11 15
+poly: 13 0 2,1 1,2 1 0 0,6 3 1 2
+%poly(human): 13x^2 + k + 2k + 6k^3xy^2
+graph: 0 1 5 6 7 9 13 15
+poly: 14 0 4 4,13 1,13 2,4 4 2 1 1
+%poly(human): 14x^4y^4 + 13k + 13k^2 + 4k^4x^2yz
+graph: 0 1 5 7 15
+poly: 15 1,6 1 1 0 2,10 2,13 4 2
+%poly(human): 15k + 6kxz^2 + 10k^2 + 13k^4x^2
+graph: 0 1 6 8 9 14
+poly: 3 0 2 0 0,10 1,3 3
+%poly(human): 3x^2 + 10k + 3k^3
+graph: 0 1 6 9
+poly: 2 0 0 4,3 1,5 2,9 3 0 3,12 4 2 1
+%poly(human): 2y^4 + 3k + 5k^2 + 9k^3y^3 + 12k^4x^2y
+graph: 0 1 9 12 13
+poly: 1 0 2,5 1,2 2,9 4 0,6 4 1 3
+%poly(human): x^2 + 5k + 2k^2 + 9k^4 + 6k^4xy^3
+graph: 0 2 3 4 5 8 12 13
+poly: 10 0 4 2,13 1 4,15 2,8 4 2 1
+%poly(human): 10x^4y^2 + 13kx^4 + 15k^2 + 8k^4x^2y
+graph: 0 2 3 4 6 8 10 11 12 14
+poly: 10 3,2 4
+%poly(human): 10k^3 + 2k^4
+graph: 0 2 3 4 6 8 10 11 12 14 15
+poly: 5 2 3 2,3 3 4,3 4
+%poly(human): 5k^2x^3y^2 + 3k^3x^4 + 3k^4
+graph: 0 2 3 4 6 8 10 12 14 15
+poly: 1,7 0 2,5 3,8 4
+%poly(human): 1 + 7x^2 + 5k^3 + 8k^4
+graph: 0 2 3 5 6 7 8 10 11 14 15
+poly: 5 1,2 1 3 0,11 1 4 4 0,15 2
+%poly(human): 5k + 2kx^3 + 11kx^4y^4 + 15k^2
+graph: 0 2 3 5 6 7 10 11 13 14 15
+poly: 6 0 3 4 0,13 1,7 2 0 2,4 2 2 1
+%poly(human): 6x^3y^4 + 13k + 7k^2y^2 + 4k^2x^2y
+graph: 0 2 3 6 7 8 10 11 14 15
+poly: 10 1,2 2,15 2 3
+%poly(human): 10k + 2k^2 + 15k^2x^3
+graph: 0 2 4 5 6 7 8 10 12 14 15
+poly: 2 2 2,1 3,1 4
+%poly(human): 2k^2x^2 + k^3 + k^4
+graph: 0 2 4 5 6 8 10 12 13 14
+poly: 10 3,14 4
+%poly(human): 10k^3 + 14k^4
+graph: 0 2 5 8 9 10
+poly: 10 1 0,9 2,1 2 2 0,1 3 0
+%poly(human): 10k + 9k^2 + k^2x^2 + k^3
+graph: 0 2 5 8 10 13
+poly: 6 1,11 2 2,3 3
+%poly(human): 6k + 11k^2x^2 + 3k^3
+graph: 0 2 8 10
+poly: 14 1,5 2
+%poly(human): 14k + 5k^2
+graph: 0 2 8 10 14
+poly: 4 0 1 2,2 0 4,1 1,4 2,2 3
+%poly(human): 4xy^2 + 2x^4 + k + 4k^2 + 2k^3
+graph: 0 2 10
+poly: 10 0,6 0 2,8 1,15 1
+%poly(human): 10 + 6x^2 + 8k + 15k
+graph: 0 3 4 6 7 8 11 12 14 15
+poly: 2 0 0 2,13 1,5 1 2
+%poly(human): 2y^2 + 13k + 5kx^2
+graph: 0 3 4 7 8 11 15
+poly: 4,11 0 2,9 0 2 2 2,7 1,4 1 3
+%poly(human): 4 + 11x^2 + 9x^2y^2z^2 + 7k + 4kx^3
+graph: 0 3 4 8 9 12 13 15
+poly: 4,7 0 2,11 2,9 3,10 4 0 4 0
+%poly(human): 4 + 7x^2 + 11k^2 + 9k^3 + 10k^4y^4
+graph: 0 3 5 10 14
+poly: 14 0 4,8 0 4 2,1 1 0,14 1 0 4,5 2 4
+%poly(human): 14x^4 + 8x^4y^2 + k + 14ky^4 + 5k^2x^4
+graph: 0 3 6 8 9 11
+poly: 14 0 2,11 1,15 4
+%poly(human): 14x^2 + 11k + 15k^4
+graph: 0 3 7 9 11 15
+poly: 7 1,10 2 3,1 4
+%poly(human): 7k + 10k^2x^3 + k^4
+graph: 0 3 8
+poly: 2 1 0,1 3,15 4 4
+%poly(human): 2k + k^3 + 15k^4x^4
+graph: 0 3 11 12 15
+poly: 13 0 2 4 0,5 1,5 2,12 2 2
+%poly(human): 13x^2y^4 + 5k + 5k^2 + 12k^2x^2
+graph: 0 3 13
+poly: 9 1,8 2,14 3 0 0 4,3 4
+%poly(human): 9k + 8k^2 + 14k^3z^4 + 3k^4
+graph: 0 4 5 6 8 13 14
+poly: 7 0 2,5 1,9 1 0 4
+%poly(human): 7x^2 + 5k + 9ky^4
+graph: 0 4 5 7 8 12 13 15
+poly: 4 1,9 2,11 4
+%poly(human): 4k + 9k^2 + 11k^4
+graph: 0 4 5 7 13 15
+poly: 3 0 4 2 0,5 1,7 3
+%poly(human): 3x^4y^2 + 5k + 7k^3
+graph: 0 4 5 8 12 13
+poly: 2 2,6 3
+%poly(human): 2k^2 + 6k^3
+graph: 0 4 5 9 12
+poly: 12 0 3 4 0,15 1,3 3 2,9 4
+%poly(human): 12x^3y^4 + 15k + 3k^3x^2 + 9k^4
+graph: 0 4 5 12 13
+poly: 13 0 2 2,6 0 2 4,9 1 0
+%poly(human): 13x^2y^2 + 6x^2y^4 + 9k
+graph: 0 4 6 7 8 12 14
+poly: 10 1 2 0 0,7 2,5 3 4
+%poly(human): 10kx^2 + 7k^2 + 5k^3x^4
+graph: 0 4 7 8 11 12
+poly: 9 1 2,13 2,5 3
+%poly(human): 9kx^2 + 13k^2 + 5k^3
+graph: 0 4 7 8 12 13
+poly: 2 0 4 0,9 3 0,1 4
+%poly(human): 2x^4 + 9k^3 + k^4
+graph: 0 4 7 11 15
+poly: 7 0 2,5 1,2 2 3,12 3 2 0 4
+%poly(human): 7x^2 + 5k + 2k^2x^3 + 12k^3x^2z^4
+graph: 0 4 8 11 12 13
+poly: 13 3,9 4,6 4 4
+%poly(human): 13k^3 + 9k^4 + 6k^4x^4
+graph: 0 5 7 10 11
+poly: 6 0 4 4 0,15 1 0,9 2,4 2 2 0,10 4
+%poly(human): 6x^4y^4 + 15k + 9k^2 + 4k^2x^2 + 10k^4
+graph: 0 5 11
+poly: 3 1,10 3 4,5 4,10 4
+%poly(human): 3k + 10k^3x^4 + 5k^4 + 10k^4
+graph: 0 5 13 14
+poly: 2 0 4 0,7 1,2 1 0,4 3 1,5 4 2
+%poly(human): 2x^4 + 7k + 2k + 4k^3x + 5k^4x^2
+graph: 0 6 7 8 15
+poly: 2 0 2,5 1,3 4 2 4 2
+%poly(human): 2x^2 + 5k + 3k^4x^2y^4z^2
+graph: 0 6 11
+poly: 10 0 4,11 0 4 4,1 1
+%poly(human): 10x^4 + 11x^4y^4 + k
+graph: 0 7 8 15
+poly: 10 1,10 4
+%poly(human): 10k + 10k^4
+graph: 0 7 11 15
+poly: 3 1,4 2 3,15 4
+%poly(human): 3k + 4k^2x^3 + 15k^4
+graph: 0 8 10
+poly: 10 0 2,7 1
+%poly(human): 10x^2 + 7k
+graph: 1 2 3 4 5 6 9 10 12 13 14
+poly: 8,14 1 4 0 3,9 2 4,5 3
+%poly(human): 8 + 14kx^4z^3 + 9k^2x^4 + 5k^3
+graph: 1 2 3 4 5 6 10 11 14
+poly: 12 0,9 1 4 2,9 2,14 3 4 1 4
+%poly(human): 12 + 9kx^4y^2 + 9k^2 + 14k^3x^4yz^4
+graph: 1 2 3 5 7 9 10 11 13 14 15
+poly: 2,9 1,3 2 3 0
+%poly(human): 2 + 9k + 3k^2x^3
+graph: 1 2 3 5 9 11 13
+poly: 8,10,1 1 0,3 2,14 3 0 2 3
+%poly(human): 8 + 10 + k + 3k^2 + 14k^3y^2z^3
+graph: 1 2 3 6 7 8 10 11 14 15
+poly: 8 0 0,1 1 2,14 2 4 3,7 4 2 0
+%poly(human): 8 + kx^2 + 14k^2x^4y^3 + 7k^4x^2
+graph: 1 2 3 6 7 9 10 11 14 15
+poly: 8,3 0 0 2,2 2 3,13 3
+%poly(human): 8 + 3y^2 + 2k^2x^3 + 13k^3
+graph: 1 2 3 7 9 11 15
+poly: 14,3 1 2,7 2,10 3 1 0 3
+%poly(human): 14 + 3kx^2 + 7k^2 + 10k^3xz^3
+graph: 1 2 3 9 10 11
+poly: 6,14,2 1 0 0 4,10 2,12 4 2
+%poly(human): 6 + 14 + 2kz^4 + 10k^2 + 12k^4x^2
+graph: 1 2 4 5 6 7 8 10 12 13 14 15
+poly: 2,6 0 4 2,5 1 0,13 1 3 4 2,3 2
+%poly(human): 2 + 6x^4y^2 + 5k + 13kx^3y^4z^2 + 3k^2
+graph: 1 2 4 5 6 8 10 12 14
+poly: 8 0,3 1 2 2 4,7 1 4 0 4,5 4 0
+%poly(human): 8 + 3kx^2y^2z^4 + 7kx^4z^4 + 5k^4
+graph: 1 2 4 5 6 9 10 11 13 14
+poly: 12,14 0 2 3,1 1 4,9 4
+%poly(human): 12 + 14x^2y^3 + kx^4 + 9k^4
+graph: 1 2 4 5 6 9 10 12 14
+poly: 12 0,14 0 4 4 2,9 1 2 2,11 2,10 4 1 1 4
+%poly(human): 12 + 14x^4y^4z^2 + 9kx^2y^2 + 11k^2 + 10k^4xyz^4
+graph: 1 2 4 5 6 9 10 13 14
+poly: 4,3 1,9 1 2 2 3,9 4
+%poly(human): 4 + 3k + 9kx^2y^2z^3 + 9k^4
+graph: 1 2 4 7 9 10 12 15
+poly: 8,5 0 2,2 1,10 1 4 4,9 3 4
+%poly(human): 8 + 5x^2 + 2k + 10kx^4y^4 + 9k^3x^4
+graph: 1 2 5 6
+poly: 10,11 1 0,5 2 2 2 4,2 3,5 4
+%poly(human): 10 + 11k + 5k^2x^2y^2z^4 + 2k^3 + 5k^4
+graph: 1 2 5 6 9 10 11 13 14
+poly: 8,10 0 4 4 3,15 3,11 4
+%poly(human): 8 + 10x^4y^4z^3 + 15k^3 + 11k^4
+graph: 1 2 5 6 10 13
+poly: 6 0,15 1 4,4 2 0 4 4,3 2 3 2,11 4
+%poly(human): 6 + 15kx^4 + 4k^2y^4z^4 + 3k^2x^3y^2 + 11k^4
+graph: 1 2 6 10 12 14
+poly: 12,15 1 4,5 2
+%poly(human): 12 + 15kx^4 + 5k^2
+graph: 1 2 6 13
+poly: 2,12,9 0 0 2,13 1 0,1 2
+%poly(human): 2 + 12 + 9y^2 + 13k + k^2
+graph: 1 2 7 14 15
+poly: 2,1 1,6 1 0 4,7 4,14 4 4 2
+%poly(human): 2 + k + 6ky^4 + 7k^4 + 14k^4x^4y^2
+graph: 1 2 14
+poly: 10,11 1,11 2 4
+%poly(human): 10 + 11k + 11k^2x^4
+graph: 1 3 4 5 6 7 9 11 13 14 15
+poly: 8,12,7 1,3 1 0 2 4,9 4 3 4
+%poly(human): 8 + 12 + 7k + 3ky^2z^4 + 9k^4x^3y^4
+graph: 1 3 4 5 8 9 11
+poly: 8,11 0 0 4 2,11 1,13 2 0 4,7 4 2 4
+%poly(human): 8 + 11y^4z^2 + 11k + 13k^2y^4 + 7k^4x^2y^4
+graph: 1 3 4 7 9 11 15
+poly: 12,1 1 2,7 2 4 0,12 3
+%poly(human): 12 + kx^2 + 7k^2x^4 + 12k^3
+graph: 1 3 5 7 9 13 15
+poly: 3,6 0 3,15 1,7 2 2 3
+%poly(human): 3 + 6x^3 + 15k + 7k^2x^2y^3
+graph: 1 3 5 7 9 15
+poly: 9,10,6 1 0 4,3 1 3 0 2,9 1 4
+%poly(human): 9 + 10 + 6ky^4 + 3kx^3z^2 + 9kx^4
+graph: 1 3 5 11
+poly: 5,10 0 3 2,1 1 2
+%poly(human): 5 + 10x^3y^2 + kx^2
+graph: 1 3 5 13
+poly: 11 0 0,7 1,12 3 2 3 0,14 3 4
+%poly(human): 11 + 7k + 12k^3x^2y^3 + 14k^3x^4
+graph: 1 3 7 8 11 15
+poly: 8,9 1 4,14 2 3 4,8 3 0 1,15 4
+%poly(human): 8 + 9kx^4 + 14k^2x^3y^4 + 8k^3y + 15k^4
+graph: 1 3 7 9
+poly: 13,10 1 1 2,11 1 2
+%poly(human): 13 + 10kxy^2 + 11kx^2
+graph: 1 3 8 9 11
+poly: 8,7 1,8 2 0 2 3,11 4 0 0 0,6 4 2
+%poly(human): 8 + 7k + 8k^2y^2z^3 + 11k^4 + 6k^4x^2
+graph: 1 3 9
+poly: 9,15 1,10 2 2
+%poly(human): 9 + 15k + 10k^2x^2
+graph: 1 3 9 15
+poly: 15,1 3 2,2 3 3 4 4
+%poly(human): 15 + k^3x^2 + 2k^3x^3y^4z^4
+graph: 1 4 7 9 12
+poly: 12 0,11 1,10 1 4 0 0,7 2 0 0 4,8 3 3 2 4
+%poly(human): 12 + 11k + 10kx^4 + 7k^2z^4 + 8k^3x^3y^2z^4
+graph: 1 4 12 13
+poly: 7,5 0 4 0 2,9 1 4
+%poly(human): 7 + 5x^4z^2 + 9kx^4
+graph: 1 5 6 7 9 13 14 15
+poly: 12,14 1,2 4 2 0 2,12 4 3 3 2
+%poly(human): 12 + 14k + 2k^4x^2z^2 + 12k^4x^3y^3z^2
+graph: 1 5 6 9 10 14
+poly: 6,14 0 2 2,15 0 2 3,3 1,3 2
+%poly(human): 6 + 14x^2y^2 + 15x^2y^3 + 3k + 3k^2
+graph: 1 5 6 9 11 13 14 15
+poly: 3 0,11 0 0 2,10 1,9 1 4
+%poly(human): 3 + 11y^2 + 10k + 9kx^4
+graph: 1 5 7 9 12 13 15
+poly: 4 0,5 1 4,1 2,10 4 3 2
+%poly(human): 4 + 5kx^4 + k^2 + 10k^4x^3y^2
+graph: 1 5 8
+poly: 8,3 1,9 4,3 4 0 2
+%poly(human): 8 + 3k + 9k^4 + 3k^4y^2
+graph: 1 5 8 12
+poly: 9,15,15 0 2 0 0,13 1,15 2 0
+%poly(human): 9 + 15 + 15x^2 + 13k + 15k^2
+graph: 1 5 9
+poly: 9,11 1,4 4 3
+%poly(human): 9 + 11k + 4k^4x^3
+graph: 1 5 11 13
+poly: 3 0,14 1 4 0,7 3,8 4,4 4 4 3
+%poly(human): 3 + 14kx^4 + 7k^3 + 8k^4 + 4k^4x^4y^3
+graph: 1 6 9
+poly: 2,5 1 4 2,1 4
+%poly(human): 2 + 5kx^4y^2 + k^4
+graph: 1 7 9
+poly: 11,13 1,10 4 2
+%poly(human): 11 + 13k + 10k^4x^2
+graph: 1 7 9 11 13
+poly: 8,15,2 1 2 2,1 3,7 3 4 2 2
+%poly(human): 8 + 15 + 2kx^2y^2 + k^3 + 7k^3x^4y^2z^2
+graph: 1 7 13 15
+poly: 13,13 3 2,10 3 3 4
+%poly(human): 13 + 13k^3x^2 + 10k^3x^3y^4
+graph: 1 8 9
+poly: 8,1 1,15 4 2
+%poly(human): 8 + k + 15k^4x^2
+graph: 1 9 11 12
+poly: 4 0,8 0 0 3,13 1,2 1 0 2,15 4 4
+%poly(human): 4 + 8y^3 + 13k + 2ky^2 + 15k^4x^4
+graph: 1 12 13
+poly: 5,15,13 1 2,13 3,11 4
+%poly(human): 5 + 15 + 13kx^2 + 13k^3 + 11k^4
+graph: 2 3 4 5 6 8 9 10 11 12 13 14
+poly: 8 0,11 1 0 4,13 1 3 2 2,15 2,6 3 2 2
+%poly(human): 8 + 11ky^4 + 13kx^3y^2z^2 + 15k^2 + 6k^3x^2y^2
+graph: 2 3 4 6 7 10 11 14 15
+poly: 1 0,3 0 0,15 1 2 2 4,13 2,6 3 4 1 3
+%poly(human): 1 + 3 + 15kx^2y^2z^4 + 13k^2 + 6k^3x^4yz^3
+graph: 2 3 5 6 7 8 10 11 12 13 14 15
+poly: 8,13 0 0 2 0,15 1 2 0,8 1 3
+%poly(human): 8 + 13y^2 + 15kx^2 + 8kx^3
+graph: 2 3 5 6 7 9 11 13 15
+poly: 6,11 1 0 2,11 2 0 0 0,9 2 2,7 3
+%poly(human): 6 + 11ky^2 + 11k^2 + 9k^2x^2 + 7k^3
+graph: 2 3 5 6 7 10 11 12 13 14 15
+poly: 4,13 1 0 2,14 2 0,13 2 4,10 3 3 0 3
+%poly(human): 4 + 13ky^2 + 14k^2 + 13k^2x^4 + 10k^3x^3z^3
+graph: 2 3 6 7 10 14 15
+poly: 8,11 3 0 4,15 4,3 4 2 3 0
+%poly(human): 8 + 11k^3y^4 + 15k^4 + 3k^4x^2y^3
+graph: 2 3 7 9 10 11 15
+poly: 14 0,13 1 0,6 2 3,11 4,2 4 0
+%poly(human): 14 + 13k + 6k^2x^3 + 11k^4 + 2k^4
+graph: 2 3 7 10 11
+poly: 5,12,5 0 4 2,5 1,12 4 1 1
+%poly(human): 5 + 12 + 5x^4y^2 + 5k + 12k^4xy
+graph: 2 3 10 15
+poly: 3,7 0 2,15 1
+%poly(human): 3 + 7x^2 + 15k
+graph: 2 4 5 9 10
+poly: 1,3,11 1,3 1 4 2 4,9 4
+%poly(human): 1 + 3 + 11k + 3kx^4y^2z^4 + 9k^4
+graph: 2 4 6 12 14
+poly: 12 0,2 0 2,1 1,2 1 4 4 3
+%poly(human): 12 + 2x^2 + k + 2kx^4y^4z^3
+graph: 2 4 7 10 13 15
+poly: 6,8,6 0 2 2,15 1 4,1 2
+%poly(human): 6 + 8 + 6x^2y^2 + 15kx^4 + k^2
+graph: 2 4 8 10 12
+poly: 8 0 0,7 1,3 1 4,9 2 2,12 3
+%poly(human): 8 + 7k + 3kx^4 + 9k^2x^2 + 12k^3
+graph: 2 4 12
+poly: 4,10 0 2,1 1
+%poly(human): 4 + 10x^2 + k
+graph: 2 5 6 10 11 13 14 15
+poly: 4,13 2 4 0,2 3,1 3 2,2 4 1 2 0
+%poly(human): 4 + 13k^2x^4 + 2k^3 + k^3x^2 + 2k^4xy^2
+graph: 2 5 10 13 15
+poly: 4,10 1 2,9 3,15 4
+%poly(human): 4 + 10kx^2 + 9k^3 + 15k^4
+graph: 2 7 14 15
+poly: 10,13 1,11 2 0 2
+%poly(human): 10 + 13k + 11k^2y^2
+graph: 3 4
+poly: 4,11 1,3 2 0
+%poly(human): 4 + 11k + 3k^2
+graph: 3 4 5 11 12 13
+poly: 8,2 1,9 3 2,2 3 4 0 4,15 4
+%poly(human): 8 + 2k + 9k^3x^2 + 2k^3x^4z^4 + 15k^4
+graph: 3 4 6 7 11 12 14 15
+poly: 4,9 0 0 2,14 1,1 2
+%poly(human): 4 + 9y^2 + 14k + k^2
+graph: 3 4 6 11 12 14
+poly: 8,8 1,10 1,2 2,9 2 4
+%poly(human): 8 + 8k + 10k + 2k^2 + 9k^2x^4
+graph: 3 4 7 9 11 12 15
+poly: 4,5 1,10 1 3,15 4
+%poly(human): 4 + 5k + 10kx^3 + 15k^4
+graph: 3 4 7 12
+poly: 5,15 0 2,9 1
+%poly(human): 5 + 15x^2 + 9k
+graph: 3 4 12 15
+poly: 15,13 0 2 2,15 1
+%poly(human): 15 + 13x^2y^2 + 15k
+graph: 3 5 6 10 11 13
+poly: 11,15,3 0 2,7 1,10 1 4 4 4
+%poly(human): 11 + 15 + 3x^2 + 7k + 10kx^4y^4z^4
+graph: 3 5 6 11 13 14
+poly: 4,10 1,12 3,10 4,9 4 2 0
+%poly(human): 4 + 10k + 12k^3 + 10k^4 + 9k^4x^2
+graph: 3 5 7 8 11 15
+poly: 4,4 0 0,9 1 0 0 0,3 2,2 4 4 3 3
+%poly(human): 4 + 4 + 9k + 3k^2 + 2k^4x^4y^3z^3
+graph: 3 5 7 8 12 13
+poly: 8,3 0 2 0,10 0 3 2 2,9 1
+%poly(human): 8 + 3x^2 + 10x^3y^2z^2 + 9k
+graph: 3 5 9 13 15
+poly: 7,10 0 4 0 4,1 1,10 2 0 0 4,3 2 2 4
+%poly(human): 7 + 10x^4z^4 + k + 10k^2z^4 + 3k^2x^2y^4
+graph: 3 5 10 11 13
+poly: 6,2 1,15 1 2
+%poly(human): 6 + 2k + 15kx^2
+graph: 3 5 11 13
+poly: 5,3 2
+%poly(human): 5 + 3k^2
+graph: 3 5 11 13 15
+poly: 10,3 0 3 0,1 2,11 3 3,13 4
+%poly(human): 10 + 3x^3 + k^2 + 11k^3x^3 + 13k^4
+graph: 3 5 13 14 15
+poly: 6,4 1,15 1 2,2 3 3 0 4,11 4
+%poly(human): 6 + 4k + 15kx^2 + 2k^3x^3z^4 + 11k^4
+graph: 3 6 7 10 11 14 15
+poly: 3,15,15 1 2,15 2 3 3,11 3
+%poly(human): 3 + 15 + 15kx^2 + 15k^2x^3y^3 + 11k^3
+graph: 3 6 7 11 13 14 15
+poly: 14,11 1 0 2 2,14 2 4 3 4,3 4 0 2 2
+%poly(human): 14 + 11ky^2z^2 + 14k^2x^4y^3z^4 + 3k^4y^2z^2
+graph: 3 6 7 14
+poly: 11,11 0 2,3 1 0
+%poly(human): 11 + 11x^2 + 3k
+graph: 3 6 7 14 15
+poly: 6,5 1 3 2 0,3 1 4 0,1 4 4
+%poly(human): 6 + 5kx^3y^2 + 3kx^4 + k^4x^4
+graph: 3 6 10 11
+poly: 2,5 1 0,15 2 2
+%poly(human): 2 + 5k + 15k^2x^2
+graph: 3 6 10 11 14
+poly: 2,5 1,8 1 4 1,10 2 2 0,13 2 4 2
+%poly(human): 2 + 5k + 8kx^4y + 10k^2x^2 + 13k^2x^4y^2
+graph: 3 6 11 15
+poly: 3,7,9 1,4 2 4 4 3,15 4 4
+%poly(human): 3 + 7 + 9k + 4k^2x^4y^4z^3 + 15k^4x^4
+graph: 3 6 15
+poly: 10,1 1,11 1 4 4,3 4,4 4 4
+%poly(human): 10 + k + 11kx^4y^4 + 3k^4 + 4k^4x^4
+graph: 3 7 8 11
+poly: 8,1 1,2 1,4 1 4 3,3 2 4 0
+%poly(human): 8 + k + 2k + 4kx^4y^3 + 3k^2x^4
+graph: 3 7 12 15
+poly: 4,1 1,5 2,4 3,4 4 3 3 2
+%poly(human): 4 + k + 5k^2 + 4k^3 + 4k^4x^3y^3z^2
+graph: 3 7 14
+poly: 1,13,5 1 2,1 2 0,7 3
+%poly(human): 1 + 13 + 5kx^2 + k^2 + 7k^3
+graph: 3 7 15
+poly: 5,1 3,4 3 3
+%poly(human): 5 + k^3 + 4k^3x^3
+graph: 3 8 9 11 13
+poly: 7,12,5 0 4,1 1 0,13 4 2
+%poly(human): 7 + 12 + 5x^4 + k + 13k^4x^2
+graph: 3 15
+poly: 11,11 3,3 4 2
+%poly(human): 11 + 11k^3 + 3k^4x^2
+graph: 4 5 7 8 13 15
+poly: 4,1 0 2 0 2,3 1,1 3
+%poly(human): 4 + x^2z^2 + 3k + k^3
+graph: 4 5 9 13
+poly: 4,15 1,9 2,4 3 1 3 4,12 3 4 4
+%poly(human): 4 + 15k + 9k^2 + 4k^3xy^3z^4 + 12k^3x^4y^4
+graph: 4 7 8 12 15
+poly: 12,7 0 2 4 4,3 1,2 1 2,2 4 4
+%poly(human): 12 + 7x^2y^4z^4 + 3k + 2kx^2 + 2k^4x^4
+graph: 4 7 9 12 13 15
+poly: 5,7 0 2,7 1,15 3 0 4,3 4 0 0 4
+%poly(human): 5 + 7x^2 + 7k + 15k^3y^4 + 3k^4z^4
+graph: 4 8 9 13
+poly: 8,9 0 2 0,1 1,8 1 3 1,11 4 0
+%poly(human): 8 + 9x^2 + k + 8kx^3y + 11k^4
+graph: 4 11
+poly: 12,5 1,5 2
+%poly(human): 12 + 5k + 5k^2
+graph: 4 11 12
+poly: 8,13 0 4,2 1,7 3
+%poly(human): 8 + 13x^4 + 2k + 7k^3
+graph: 4 12
+poly: 8,14 1
+%poly(human): 8 + 14k
+graph: 5 6 7 13 14 15
+poly: 13,13,12 0 3 0,10 1,1 1 2
+%poly(human): 13 + 13 + 12x^3 + 10k + kx^2
+graph: 5 6 9
+poly: 14,5 1 2,13 2 2,12 3 4 4,8 4 0
+%poly(human): 14 + 5kx^2 + 13k^2x^2 + 12k^3x^4y^4 + 8k^4
+graph: 5 6 12 13 14
+poly: 1,11,11 1,7 1 0 4,10 2 0
+%poly(human): 1 + 11 + 11k + 7ky^4 + 10k^2
+graph: 5 6 13 14
+poly: 4,14 1,6 2
+%poly(human): 4 + 14k + 6k^2
+graph: 5 7 8 11 13 15
+poly: 8 0 0,1 1 0 0 2,11 2 0,10 2 1,5 3 2
+%poly(human): 8 + kz^2 + 11k^2 + 10k^2x + 5k^3x^2
+graph: 5 7 11 13 15
+poly: 1,3 1 4 0,2 2 2 4,14 4 4 0 2
+%poly(human): 1 + 3kx^4 + 2k^2x^2y^4 + 14k^4x^4z^2
+graph: 5 8 13 15
+poly: 8,15 1,6 1 2 4,2 2 2,5 4
+%poly(human): 8 + 15k + 6kx^2y^4 + 2k^2x^2 + 5k^4
+graph: 6 7 10 11
+poly: 10 0,12 0 2 4,7 1 4 0 0,9 4
+%poly(human): 10 + 12x^2y^4 + 7kx^4 + 9k^4
+graph: 6 7 10 15
+poly: 6,15 1 0,1 2 2
+%poly(human): 6 + 15k + k^2x^2
+graph: 7 8 15
+poly: 8,1 1,9 4 4 2
+%poly(human): 8 + k + 9k^4x^4y^2
+graph: 7 9 11 13
+poly: 7 0,1 1,7 2 0 2,2 4 4 0 0
+%poly(human): 7 + k + 7k^2y^2 + 2k^4x^4
+graph: 7 14
+poly: 6,9 1,11 2
+%poly(human): 6 + 9k + 11k^2
+graph: 8 11
+poly: 8,5 1 4,1 4
+%poly(human): 8 + 5kx^4 + k^4
+graph: 9 10
+poly: 6,9 0 4,9 1
+%poly(human): 6 + 9x^4 + 9k
+graph: 10 11
+poly: 9,9,3 1,13 4
+%poly(human): 9 + 9 + 3k + 13k^4
+graph: 11 12
+poly: 12,15 1,15 4 0
+%poly(human): 12 + 15k + 15k^4
