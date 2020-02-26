@@ -4,8 +4,7 @@ Deep Reinforcement Learning for Synthesizing Functions in Higher-Order Logic.
 ## Synthesis problems and solutions
 
 The generated datasets are located in the ``combin_target`` and ``dioph_target`` directories.
-The file ``train_export`` contains training problems, and ``test_export`` contain
-testing problems.
+The file ``train_export`` contains training problems, and ``test_export`` contains testing problems.
 Each problem is followed by one possible solution on the next line.
 
 The other files in these directories contains the same data in a format easily 
